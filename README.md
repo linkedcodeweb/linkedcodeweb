@@ -19,5 +19,5 @@ Si te gusta nuestro trabajo deja una estrella.
 <br>
 ## NUESTROS PROYECTOS
 
-- 🔗 POKETECH
+- 🔗 [POKETECH](https://github.com/linkedcodeweb/PokeTech)
 
