@@ -2,7 +2,7 @@
 
 Hola! 👋 
 
-Somos [@Carlos](https://github.com/CMallen29)  y [@Sandra](https://github.com/Sandrabua), un grupo de desarrolladores web que queremos compartir nuestros proyectos con la comunidad a la vez que aprendemos tecnologías usadas para el desarrollo de software. 
+Somos [@Carlos](https://github.com/CMallen29)  y [@Sandra](https://github.com/Sanbua), un grupo de desarrolladores web que queremos compartir nuestros proyectos con la comunidad a la vez que aprendemos tecnologías usadas para el desarrollo de software. 
 <br>
 <br>
 Si te gusta nuestro trabajo deja una estrella.
